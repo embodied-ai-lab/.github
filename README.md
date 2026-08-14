@@ -1,2 +1,2 @@
 # .github
-Repository for embodied-ai-lab organization page.
+Repository for the embodied-ai-lab organization page.
