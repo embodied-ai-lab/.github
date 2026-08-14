@@ -9,9 +9,9 @@ security mechanisms, and physical outcomes interact in embodied systems.
 
 | Project lab | Agent type | Repository | Core question |
 | --- | --- | --- | --- |
-| **A: Agentic Driving Coach** | LLM agent | [agentic-driving-coach](https://github.com/iscps-lab/agentic-driving-coach) | How do inference latency, deadlines, and fallback affect a simulated car's physical outcome? |
-| **B: Embodied Agent Authentication** | VLM agent | [embodied-agent-auth](https://github.com/iscps-lab/embodied-agent-auth) | How can authenticated sensor delivery protect a visual embodied agent from malicious publishers? |
-| **C: Safe Agent Actuation** | VLA agent | [safe-agent-actuation](https://github.com/iscps-lab/safe-agent-actuation) | How should generated robot motion be analyzed, authorized, and enforced before actuation? |
+| **A: Agentic Driving Coach** | LLM agent | [agentic-driving-coach](https://github.com/embodied-ai-lab/agentic-driving-coach) | How do inference latency, deadlines, and fallback affect a simulated car's physical outcome? |
+| **B: Embodied Agent Authentication** | VLM agent | [embodied-agent-auth](https://github.com/embodied-ai-lab/embodied-agent-auth) | How can authenticated sensor delivery protect a visual embodied agent from malicious publishers? |
+| **C: Safe Agent Actuation** | VLA agent | [safe-agent-actuation](https://github.com/embodied-ai-lab/safe-agent-actuation) | How should generated robot motion be analyzed, authorized, and enforced before actuation? |
 
 Visit the [Embodied AI Lab 
 website](https://embodied-ai-lab.github.io/) for the sequence overview, learning
